@@ -1,5 +1,5 @@
 # Hacktiv8: Scalable Web Service With Golang
-**Adrian Muhamamad Kuncoro**
+**Sugafi Pauhiklasandi Pach**
 ## Assignment 2
 
 ### Running :
