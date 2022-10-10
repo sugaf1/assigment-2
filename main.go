@@ -7,5 +7,5 @@ import (
 func main() {
 	r := router.StartApp()
 
-	r.Run((":8000"))
+	r.Run(("localhost:8000"))
 }
